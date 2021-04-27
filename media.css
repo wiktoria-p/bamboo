@@ -1,0 +1,34 @@
+@media (min-width:320px) {
+    header div h1 {
+        font-size: 2rem;
+    }
+
+    header nav ul li {
+        font-size: 15px;
+    }
+
+    section.gallery img {
+        width: 100vw;
+        height: 50vh;
+        padding: 5px;
+        padding-bottom: 10px;
+    
+    }
+
+    section.article a img {
+        width: 100vw;
+    }
+
+    footer span {
+        font-size: 9px;
+        padding-left: 3vw;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+    
+    span.b  {
+        padding-left: 3vw;
+        padding-right: 3vw;
+    }
+    
+}
